@@ -7,4 +7,5 @@ This web app was created with React. Its was an inspiration from [Colorlib](http
 ### `npm install` to install node modules
 ### `npm start` to start the development server
 
-The app starts on [http://localhost:3000](http://localhost:3000).
+The app starts on [http://localhost:3000](http://localhost:3000).<br/>
+View the portfolio [here](https://paulodhiambo.github.io/ReactPortfolio/)
