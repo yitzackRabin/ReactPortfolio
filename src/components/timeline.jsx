@@ -34,7 +34,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduate at JKUAT<span>2018-2022</span></h2>
+                        <h2>Undergraduate at Maseno University<span>2018-2022</span></h2>
                         <p>I am pursuing my under-graduate studies with major in Computer Science.
                           I have taken courses like DSA, OOPs, Computer Networks,Web-Data Management
                           over the years and have better understanding of these subjects.I have also
@@ -49,7 +49,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Primary and Higher Education <span>2005-2017</span></h2>
-                        <p>I have completed my higher secondary education with a mean grade of B plain.
+                        <p>I have completed my higher secondary education with a mean grade of B+ (plus).
                           During my time at school, I have developed interest in solving complex problems
                           of the fundamental physics which helped me to improve my understanding of any problem
                           and also my mathematical skills to actually solve the problems.</p>

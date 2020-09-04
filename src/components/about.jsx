@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer technology undergraduate student from Jkuat.I love exploring new technologies and often amazed by the progress we as a human species have made so far in the recent years.</p>
+                    <p>I am a Computer Science undergraduate student from Mason University.I love exploring new technologies and often amazed by the progress we as a human species have made so far in the recent years.</p>
                     <p></p>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and web services using Django,Python,JavaScript,React</p>
+                    <p>I have experience building websites and web services using PHP,Laravel Django,Python,JavaScript,React</p>
                 </div>
                 </div>
             </div>
@@ -50,7 +50,8 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Mobile Development</h3>
                     <p>I build mobile apps with the current technologies i.e flutter,React Native libraries
-                        and Native android development with the material design guidelines. </p>
+                        and Native android development with the material design guidelines.
+                        I dive much in Kotlin and Java too </p>
                 </div>
                 </div>
             </div>
@@ -61,11 +62,11 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Science</h3>
-                    <p>I perform advanced data analysis on large datasets using python libraries like pandas, numpy and matplotlib.</p>
+                    <p>I perform advanced data analysis on large datasets using python libraries like pandas, numpy , and matplotlib.</p>
                 </div>
                 </div>
             </div>
-            {/*
+            {/* {/*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
@@ -100,7 +101,7 @@ export default class About extends Component {
                 </div>
             </div>
             */}
-            </div>
+            </div> */}
         </div>
 
         </section>

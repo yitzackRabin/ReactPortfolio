@@ -7,22 +7,22 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/img_bg.png)',  backgroundPosition:"center",  backgroundSize:"contain"}}>
+              <li style={{backgroundImage: 'url(images/img_bg.jpg)',  backgroundPosition:"center",  backgroundSize:"contain"}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1>Hi! <br />I'm Paul</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://github.com/paulodhiambo" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <h1>Hi! <br />I'm RABIN YITZACK</h1>
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/yitzackRabin" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/img_bg.png)',  backgroundPosition:"center",  backgroundSize:"contain"}}>
+              <li style={{backgroundImage: 'url(images/img_bg.jpg)',  backgroundPosition:"center",  backgroundSize:"contain"}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -30,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I love building<br /> THINGS !!</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://dev.to/paulodhiambo" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://dev.to/yitzackrabin" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -38,7 +38,7 @@ export default class Introduction extends Component {
                 </div>
               </li>
 
-              <li style={{backgroundImage: 'url(images/img_bg.png)',  backgroundPosition:"center",  backgroundSize:"contain"}}>
+              <li style={{backgroundImage: 'url(images/img_bg.jpg)',  backgroundPosition:"center",  backgroundSize:"contain"}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -54,7 +54,7 @@ export default class Introduction extends Component {
                 </div>
               </li>
 
-              <li style={{backgroundImage: 'url(images/img_bg.png)',  backgroundPosition:"center",  backgroundSize:"contain"}}>
+              <li style={{backgroundImage: 'url(images/img_bg.jpg)',  backgroundPosition:"center",  backgroundSize:"contain"}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -62,7 +62,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I often <br/>Write ... </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://github.com/paulodhiambo" target="_blank" rel="noopener noreferrer">View posts <i className="icon-book" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/yitzackRabin" target="_blank" rel="noopener noreferrer">View posts <i className="icon-book" /></a></p>
                         </div>
                       </div>
                     </div>

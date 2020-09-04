@@ -9,8 +9,8 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Paul Odhiambo</a></h1>
-              <span className="email"><i className="icon-mail"></i> paulodhiambo@gmail.com</span>
+              <h1 id="colorlib-logo"><a href="index.html">Yitzack Rabin</a></h1>
+              <span className="email"><i className="icon-mail"></i> rabcom07@gmail.com</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -25,11 +25,12 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://mobile.facebook.com/stephanyashlay.young" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                <li><a href="https://twitter.com/paulodh80475720" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/youngashlay/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                <li><a href="https://www.linkedin.com/in/paul-odhiambo-b2b04a168/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://github.com/paulodhiambo" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <li><a href="https://web.facebook.com/zacks.dejunior/" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
+                {/* <li><a href="https://twitter.com/paulodh80475720" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li> */}
+                <li><a href="https://www.instagram.com/ryitzack/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.linkedin.com/in/yitzack-rabin-6623081a2/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                <li><a href="https://github.com/yitzackRabin" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <li> <p>Contact 0708997884 <br/>0741563325</p> </li>
               </ul>
             </nav>
             <div className="colorlib-footer">
